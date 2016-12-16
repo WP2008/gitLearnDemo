@@ -1,4 +1,3 @@
-master commit
-commit 02
-commit 03
+commit-msg Hook Learn
+
 
